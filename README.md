@@ -66,7 +66,7 @@ This project of web app helping people organize and keep their cooking recipes. 
 <strong>git checkout -b nameBranch</strong>
 
 * We work on our branch. After finishing work we let go with: <strong>
-git add -A  next:  git commit -m "Tresc commita" then: git push origin nameBranch</strong>
+git add -A  next:  git commit -m "Commit message" then: git push origin nameBranch</strong>
 
 * Next Go to the git site with our project: https://github.com/IntermittentCoding/Cooking_Recipes.git
 
