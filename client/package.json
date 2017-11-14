@@ -3,6 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "classnames": "^2.2.5",
+    "getbase": "^3.5.1",
     "netguru-react-scripts": "1.3.0",
     "normalize.css": "^7.0.0",
     "react": "^16.1.1",
